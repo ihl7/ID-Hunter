@@ -16,7 +16,7 @@ To install ID Hunter, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/[YOUR_USERNAME]/ID-Hunter.git`
 2. Install the required packages: `pip install -r requirements.txt`
-3. Run the app: `python app.py`
+3. Run the app: `python hunter.py`
 
 ## Usage
 
