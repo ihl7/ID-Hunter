@@ -16,7 +16,8 @@ To install ID Hunter, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/[YOUR_USERNAME]/ID-Hunter.git`
 2. Install the required packages: `pip install -r requirements.txt`
-3. Run the app: `python hunter.py`
+3. Update the TOKEN in line `9`     `token = 'PUT-YOUR-TOKEN-HERE'  # Replace it with your Discord API token`
+4. Run the app: `python hunter.py`
 
 ## Usage
 
